@@ -1,4 +1,3 @@
 - 👋 Olá, me chamo Deyvson
 - 🤝 Atualmente trabalho como desenvolvedor Salesforce
-- 👀 Tenho interesse em me aperfeiçoar como desenvolvedor Salesforce
 - 📫 Contate-me no E-mail: deyvson.faneco@gmail.com
